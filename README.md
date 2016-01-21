@@ -19,4 +19,6 @@ resource "nsot_site" "test" {
 }
 ```
 
+# LICENSE
 
+	Apache2 - see the included LICENSE file for more information
