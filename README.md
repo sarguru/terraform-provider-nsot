@@ -8,7 +8,7 @@ Export the following variables
 	export NSOT_SECRET="<nsot_secret>"
 	export NSOT_URL="<nsot_url>"
 
-example of nsot_url is "http://<NSOT_HOST>:<NSOT_PORT>/api"
+example of nsot_url is "http://NSOT_HOST:NSOT_PORT/api"
 
 
 ## Example
